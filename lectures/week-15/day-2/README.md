@@ -5,7 +5,7 @@ Welcome to Week 15!
 ## Agenda
 
 
-- [Lesson: pg-Promise Continued](https://learn.digitalcrafts.com/flex/lessons/databases/pg-promise/)
+- [Lesson: Sequelize ORM](https://learn.digitalcrafts.com/flex/lessons/databases/sequelize-orm/)
 - Wrap up
   - Office hours reminder
 
