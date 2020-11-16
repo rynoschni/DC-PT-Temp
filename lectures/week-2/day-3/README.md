@@ -4,7 +4,7 @@ Welcome to your second week in the Digital Crafts Flex Program!
 
 ## Agenda
 
-- Open floor for questions about dev environment setup
+- Open floor for questions
 - [Lesson: Callbacks and Anonymous Functions](https://learn.digitalcrafts.com/flex/lessons/solving-problems-using-code-js/callbacks/#learning-objectives)
 - Wrap up
   - Office hours reminder

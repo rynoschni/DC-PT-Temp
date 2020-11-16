@@ -4,7 +4,7 @@ Welcome to your second week in the Digital Crafts Flex Program!
 
 ## Agenda
 
-- Open floor for questions about dev environment setup
+- Open floor for questions
 - [Exploring JavaScript](https://learn.digitalcrafts.com/flex/lessons/solving-problems-using-code-js/js-101/#summary)
 - [Solving Problems With Code](https://learn.digitalcrafts.com/flex/lessons/solving-problems-using-code-js/common-patterns/#learning-objectives)
   - Office hours reminder

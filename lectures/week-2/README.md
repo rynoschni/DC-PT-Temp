@@ -14,5 +14,11 @@ This week we are going to be learning some programming fundamentals, how to writ
 
 Here's a list of items that you can do to prepare for this week
 
-
-
+- [ ] Ensure that you have the following installed
+  - [ ] git
+  - [ ] node/nvm
+  - [ ] VSCode
+- [ ] Ensure that you have access to https://learn.digitalcrafts.com/flex/
+- [ ] Ensure that you have access to your class repository on Github
+- [ ] Complete the [CLI 101 Exercises](https://learn.digitalcrafts.com/flex/lessons/dev-fundamentals/cli-101/exercises.html#training-exercises)
+- [ ] Complete the [Git 101 Exercises](https://learn.digitalcrafts.com/flex/lessons/dev-fundamentals/git-101/exercises.html)
