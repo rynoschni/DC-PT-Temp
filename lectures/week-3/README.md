@@ -16,5 +16,6 @@ This week we'll begin learning about the foundations of Front-End development. Y
 
 Here's a list of items that you can do to prepare for this week
 
-
+- [Debug School](http://debugschool.com/) - Although we'll be spending some time away from JavaScript this week, knowing how to debug JavaScript effectively is an important skill. Its great to start working on this early and often. Debug School is a focused resource providing 6 lessons to help you improve
+- [The History of HTML and Houw It Revolutionized the Internet](https://www.thoughtco.com/history-of-html-1991418) - Quick bit of history regarding HTML
 
